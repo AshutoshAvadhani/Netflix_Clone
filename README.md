@@ -1,3 +1,8 @@
+This application is a Netflix clone being designed for study purposes.
+Technology stack being used is: - 1) React 2) Node.Js
+
+==================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
