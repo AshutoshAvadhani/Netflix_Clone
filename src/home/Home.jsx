@@ -1,10 +1,14 @@
 import React from 'react'
-import AcUnit from '@mui/icons-material/AcUnit';
 import "./home.scss"
+import Navbar from '../components/navbar/Navbar';
+//import shaktiman from "../images/shaktiman.jpg"
+import background from "../images/wallpaper_background.jpg"
 
 const Home = () => {
   return (
-    <div className='home'>Home 
+    <div className='home'>
+        <Navbar></Navbar>
+        <img src={background} alt="" width="100%"></img>
     </div>
   )
 }
